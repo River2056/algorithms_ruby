@@ -1,4 +1,3 @@
-require "test/unit"
 
 def two_sum(nums, target)
   ref = {}
